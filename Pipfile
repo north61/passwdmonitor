@@ -1,0 +1,33 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+flask = "*"
+dotenv = "*"
+python-dotenv = "*"
+flask-sqlalchemy = "*"
+flask-login = "*"
+flask-wtf = "*"
+flask-bootstrap = "*"
+bootstrap-flask = "*"
+flask-email = "*"
+flask-mail = "*"
+flask-session = "*"
+redis = "*"
+flask-ckeditor = "*"
+pymysql = "*"
+flask-script = "*"
+requests = "*"
+mysqldb = "*"
+install = "*"
+mysql-python = "*"
+git = "*"
+gitpython = "*"
+orm = "*"
+
+[requires]
+python_version = "2.7"
